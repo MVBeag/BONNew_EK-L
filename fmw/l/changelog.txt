@@ -1,11 +1,11 @@
-******************************
-* Broncolor SirosL ChangeLog *
-******************************
+*****************************
+* Broncolor Siros ChangeLog *
+*****************************
 
 Version 52.05
 =============
-- synchronise sequence and delay functionality works together.
-- enterprise mode works indecently of the AP configuration.
+- synchronise sequence and delay improved.
+- enterprise mode improved.
 - sequence constancy improved.
 
 Version 52.04
@@ -30,3 +30,4 @@ Version 52.01
 Version 52.02
 =============
 - Overall improvement
+
